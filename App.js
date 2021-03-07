@@ -6,7 +6,7 @@ import {createAppContainer, createSwitchNavigator} from 'react-navigation';
 import {createBottomTabNavigator} from 'react-navigation-tabs'
 import {AppTabNavigator} from './Components/AppTabNavigator'
 import {AppDrawerNavigator} from './Components/AppDrawerNavigator'
-
+//Importing all the Needed Components.
 export default function App() {
   return (
     <AppContainer/>
